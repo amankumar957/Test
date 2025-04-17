@@ -1,1 +1,2 @@
 learn 1st time git
+pencile se chamge kr sakte h commit change me likhe do add 2nd line
